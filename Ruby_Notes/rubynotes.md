@@ -3,6 +3,6 @@ Programming Notes On Ruby
 
 
 
-puts
+puts will create a new line
 
-prints 
+prints prints will not create a new line
