@@ -1,1 +1,7 @@
-This is my everyday gitflow when creating new projects i will list the step below.
+#GIT-FLOW
+
+I will list my Git-Flow In Order and explain, but some times alter depending on situioon (i.e Work On Self Project, Or Collabating With Other Developers,)
+
+So My Git-Flow as follows
+
+
