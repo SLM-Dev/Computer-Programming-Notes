@@ -5,3 +5,5 @@ I will list my Git-Flow In Order and explain, but some times alter depending on 
 So My Git-Flow as follows
 
 
+git clone will copy the file to desktop
+
