@@ -6,4 +6,5 @@ So My Git-Flow as follows
 
 
 git clone will copy the file to desktop
+Git branch namehere
 
