@@ -7,7 +7,7 @@ Variable
  
 
  
-```python 
-s = "Python syntax highlighting"
+```Python 
+Python Variable Example"
 print bus_driver = 300
 ```
