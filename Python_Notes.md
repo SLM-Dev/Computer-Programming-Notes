@@ -11,3 +11,5 @@ Variable
 Python Variable Example"
 print bus_driver = 300
 ```
+
+Up next is strings in python 
