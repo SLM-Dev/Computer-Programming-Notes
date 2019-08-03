@@ -15,4 +15,4 @@ print bus_driver = 300
 String Section
 Up next is strings in python!
 
-```print ("print")st
+```print ("print")```
