@@ -18,3 +18,4 @@ Up next is strings in python!
 ```print ("print")```
 
 Function Section
+Operators Section
