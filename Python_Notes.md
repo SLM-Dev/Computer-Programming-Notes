@@ -16,3 +16,5 @@ String Section
 Up next is strings in python!
 
 ```print ("print")```
+
+Function Section
