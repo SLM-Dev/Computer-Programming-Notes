@@ -1,7 +1,7 @@
 # Ruby
 Programming Notes On Ruby
 
-
+#variables
 
 #puts will create a new line
 
