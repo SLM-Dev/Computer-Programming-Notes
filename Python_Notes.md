@@ -23,3 +23,4 @@ Operators Section
 Collections
 Sets
 Dictoronary
+Tuples
