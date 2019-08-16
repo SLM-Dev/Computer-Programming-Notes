@@ -24,3 +24,4 @@ Collections
 Sets
 Dictoronary
 Tuples
+And and or not 
