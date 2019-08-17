@@ -25,3 +25,7 @@ Sets
 Dictoronary
 Tuples
 And and or not 
+
+# Current Learning
+Basic Will Be
+Variable and Data Types
