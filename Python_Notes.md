@@ -28,4 +28,4 @@ And and or not
 
 # Current Learning
 Basic Will Be
-Variable and Data Types
+Variable and Data Types.
