@@ -5,7 +5,7 @@ Variable
  bus_drivers = 300
  
  Floats.
- Boolean
+ Boolean.
  
 ```Python 
 Python Variable Example"
