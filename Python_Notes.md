@@ -12,7 +12,7 @@ Python Variable Example"
 print bus_driver = 300
 ```
 
-String Section
+String Section.
 Up next is strings in python!
 
 ```print ("print")```
