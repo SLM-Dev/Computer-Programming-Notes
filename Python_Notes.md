@@ -7,7 +7,8 @@ Oop
  Floats.
  Boolean.
  
-```Python 
+```Python.
+
 Python Variable Example"
 print bus_driver = 300
 ```
