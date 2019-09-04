@@ -35,3 +35,10 @@ Generators last.
 
 This is how you add an item to a list
 append.("what ever you want to add here")
+
+This is how you remove and item from a list
+.pop()
+example
+
+a.pop()  #this is how you remove
+a.append("what do you want here")
