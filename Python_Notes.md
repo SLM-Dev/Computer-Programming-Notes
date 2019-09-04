@@ -32,3 +32,6 @@ Basic Will Be
 Variable and Data Types.
 
 Generators last.
+
+This is how you add an item to a list
+append.("what ever you want to add here")
