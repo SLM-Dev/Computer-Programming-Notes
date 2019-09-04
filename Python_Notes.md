@@ -40,5 +40,11 @@ This is how you remove and item from a list
 .pop()
 example
 
+```Python.
+
+built in python functions"
+
 a.pop()  #this is how you remove
-a.append("what do you want here")
+a.append("what do you want here") # add item to a list
+
+```
