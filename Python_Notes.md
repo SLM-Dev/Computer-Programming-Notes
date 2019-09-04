@@ -43,8 +43,10 @@ example
 ```Python.
 
 built in python functions"
+a = ['some string', 123, ' another string']
 
-a.pop()  #this is how you remove
+
+a.pop()  #this is how you remove the last item of a list
 a.append("what do you want here") # add item to a list
 
 ```
