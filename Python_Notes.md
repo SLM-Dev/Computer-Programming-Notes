@@ -20,7 +20,7 @@ Up next is strings in python!.
 
 Function Section
 Operators Section.
-
+Conditionals
 Collections
 Sets
 Dictoronary
