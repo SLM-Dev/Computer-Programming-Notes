@@ -38,7 +38,8 @@ append.("what ever you want to add here")
 
 This is how you remove and item from a list
 .pop()
-example
+example.
+
 
 ```Python.
 
