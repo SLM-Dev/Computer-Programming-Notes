@@ -26,6 +26,7 @@ Sets
 Dictoronary
 Tuples
 And and or not 
+If else elif
 
 # Current Learning
 Basic Will Be.
