@@ -27,7 +27,7 @@ Dictoronary
 Tuples
 And and or not 
 If else elif
-
+Lists
 # Current Learning
 Basic Will Be.
 Variable and Data Types.
