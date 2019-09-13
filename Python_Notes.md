@@ -17,7 +17,9 @@ String Section.
 Up next is strings in python!.
 
 ```print ("print")```
+Will learn
 
+Variables Check
 Function Section
 Operators Section.
 Conditionals
