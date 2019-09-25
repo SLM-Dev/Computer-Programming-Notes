@@ -11,3 +11,4 @@ git status git status checks to what directory i am in along with if i have anyt
 git checkout (name here)
 git branch -av
 git status 
+open up the code edtior vscode is  code . (use terminal to type that in)
