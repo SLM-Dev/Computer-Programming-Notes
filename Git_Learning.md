@@ -14,3 +14,4 @@ git status
 open up the code edtior vscode is  code . (use terminal to type that in)
 #will continue soon
 #git add . 
+git commit - m
