@@ -6,7 +6,7 @@ Variables.
 Oop 
  Floats.
  Boolean.
-Complex 
+Complex syntax 
  
 ```Python.
 
