@@ -7,7 +7,7 @@ Programming Notes On Ruby
 # will finish later
 
 #prints prints will not create a new line      -->
-
+things to remember
 
 
 
