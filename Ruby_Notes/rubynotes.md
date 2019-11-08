@@ -5,7 +5,7 @@ Programming Notes On Ruby
 
 #puts will create a new line
 # will finish later
-
+Ruby commands 
 #prints prints will not create a new line      -->
 things to remember
 
