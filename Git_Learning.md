@@ -16,4 +16,4 @@ git status
  #git add . 
   #git commit - m
   # git status
-  # git
+  git commands will be added soon
