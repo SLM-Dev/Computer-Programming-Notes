@@ -11,7 +11,7 @@ Complex syntax
 ```Python.
 
 Python Variable Example"
-print bus_driver = 300
+print bus_dr iver = 300
 
 ```
 
