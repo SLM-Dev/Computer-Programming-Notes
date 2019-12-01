@@ -1,5 +1,5 @@
   Python..
-Variables.
+Varia. bles.
 - To  do   a variable in Python when runs python interpeter allocate some memory and store the number 300 in that memory space     the variable with refernce the memory location.
  
    b us_drivers = 300
