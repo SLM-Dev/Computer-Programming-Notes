@@ -5,7 +5,7 @@ Varia. bles.
    b  us- drivers   = 300
   Oop   
        Floats.
-   Boolean.
+   Boolean
 Complex syntax    
  
 ```Python.
