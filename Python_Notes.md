@@ -6,7 +6,7 @@ Varia.  .
   Oop   
      Floats.
    Boolean
-Complex syntax    
+Comp lex syntax    
  
 ```Python.
 
