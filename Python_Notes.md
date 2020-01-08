@@ -5,7 +5,7 @@ Varia.  .
    b  us- dri vers.    = 300
   Oop   
      Floats.
-   Boolean
+   Boo lean
 Comp lex syntax    
  
 ```Python.
