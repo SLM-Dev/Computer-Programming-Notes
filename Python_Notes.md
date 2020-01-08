@@ -6,7 +6,7 @@ Varia.  .
   Oop   
      Floats.
    Boo lean
-Comp lex syntax    
+Comp  lex syntax    
  
 ```Python.
 
