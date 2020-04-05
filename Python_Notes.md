@@ -1,5 +1,6 @@
 
 
+
  K   
 
 
@@ -9,7 +10,8 @@ Fri
 y 
  t ho n 
   .
-- To  do  a   variable.  in Python when runs python interpeter allocate some memory and store the number 300 in that memory space     the variable with refernce the memory location.
+- To  
+do  a   variable.  in Python when runs python interpeter allocate some memory and store the number 300 in that memory space     the variable with refernce the memory location.
     
    b  us- dri vers.    = 300
   Oop   
