@@ -6,6 +6,9 @@ H
 
 
 
+
+
+
  K   
 
 
@@ -24,7 +27,7 @@ do  a   variable.  in Python when runs python interpeter allocate some memory an
       Floats.
    Boo lean
 Comp  lex syntax    
- 
+H 
 ```Python.
 
 Python.  Variable Exam ple"
