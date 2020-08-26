@@ -7,8 +7,7 @@ Programming Notes On Ruby
 # will finish later
 Ruby commands 
 #prints prints will not create a new line      -->
-things to remember
-
+things to remembe
 
 
 puts "Hello World"
