@@ -2,7 +2,6 @@
 N
 
 ch2
-B
 J
 H
 I 
