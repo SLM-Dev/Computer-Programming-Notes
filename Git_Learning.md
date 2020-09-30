@@ -2,8 +2,7 @@
 N
 
 B
-Jj
-
+J
 N
 #GIT-FLOW
   
