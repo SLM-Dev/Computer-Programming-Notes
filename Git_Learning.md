@@ -1,7 +1,7 @@
 
 N
 
-Bn
+Bna
 J
 N
 #GIT-FLOWs
