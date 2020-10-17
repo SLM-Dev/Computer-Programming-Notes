@@ -2,7 +2,6 @@
 N
 
 Bn
-J
 
 #GIT-FLOWs
   
