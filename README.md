@@ -5,6 +5,6 @@ A Collection Of Programming Notes..
 
 S
 g 
- Sh
+ S
 B
 
