@@ -6,5 +6,5 @@ A Collection Of Programming Notes..
 S
 g 
  S
-B
+
 N
