@@ -6,7 +6,7 @@ A Collection Of Programming Notes..
 S
 g 
  Sh
-H
+
 C
 
 
