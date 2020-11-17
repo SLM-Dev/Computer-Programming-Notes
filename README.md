@@ -5,7 +5,7 @@ A Collection Of Programming Notes..
 
 S
 
-Cb
+Cbn
 
 Nh
 H
