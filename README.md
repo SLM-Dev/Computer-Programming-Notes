@@ -6,6 +6,6 @@ N
 
 
 Cb
-N
+N b
 H
 N
