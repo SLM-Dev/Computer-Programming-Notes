@@ -7,7 +7,7 @@
 
     So  My Git-Flow as follows
 
-N
+
 git  clone will copy the file to desktop
 Git branch namehere
 git status git status checks to what directory i am in along with if i have anything staged as in ready to upload in a sense.
