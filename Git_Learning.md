@@ -6,6 +6,7 @@
    I  will list my Git-Flow In Order and explain, but some times alter depending on situioon (i.e Work On Self Project, Or Collabating With Other Developers,)
 
    So  My Git-Flow as follows
+ 
 
 
 git  clone will copy the file to desktop
@@ -19,5 +20,5 @@ git status
  #git add . 
   #git commit - m
   # git status
-  git commands will be added soon
+  git commands will be added soon thank
 
